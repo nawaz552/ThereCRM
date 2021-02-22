@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393319733547",
+    "project_id": "therecrmapp",
+    "storage_bucket": "therecrmapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393319733547:android:9bada18112d86ae8b34d6e",
+        "android_client_info": {
+          "package_name": "com.therecrm.pmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393319733547-180hj0n6adh558tkl4e0s3in337lnq8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTpprxYzvP6383YJLp7GUAcTiAAjFlAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393319733547-180hj0n6adh558tkl4e0s3in337lnq8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
